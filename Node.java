@@ -1,10 +1,5 @@
-class Node{
-    int data;
-    Node next;
+package Stack;
 
-    public Node(int data)
-    {
-        this.data = data;
-        this.next = null;
-    }
+public class Node {
+    
 }
